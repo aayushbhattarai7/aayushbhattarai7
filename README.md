@@ -1,7 +1,7 @@
 
 
 [![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)](https://www.behance.net/gallery/118787189/Nextcode/modules/704963761)
-<h1 align="center">Hi 👋, I'm Aayush Bhattarai</h1>
+<h1 align="center">Hi , I'm Aayush Bhattarai</h1>
 <h3 align="center">A passionate Full-Stack developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushbhattarai7&label=Profile%20views&color=0e75b6&style=flat" alt="aayushbhattarai7" /> </p>
