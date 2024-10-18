@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.aayush-bhattarai.com.np/](https://www.aayush-bhattarai.com.np/)
 
-- 📫 How to reach me **aayush.bhattarai.np@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
